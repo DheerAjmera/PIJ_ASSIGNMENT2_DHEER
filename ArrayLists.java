@@ -15,7 +15,11 @@ public class ArrayLists {
             }
         }
         
+        System.out.println("Even numbers: " + even);
+        System.out.println("Odd numbers: " + odd);
     }
+
+   
 
 }
 
